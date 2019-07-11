@@ -1,0 +1,6 @@
+[submodule "alphasign"]
+	path = alphasign
+	url = https://github.com/msparks/alphasign.git
+[submodule "simplesign"]
+	path = simplesign
+	url = https://github.com/codeforkjeff/simplesign.git
